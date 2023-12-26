@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+my+name+is+Alex+Mihala%C8%99cu+!;A+passionate+WEB+Developer." alt="Typing SVG" /></a>
 </div>
-======================================================================================================================================
+=================================================================================================
 
 * 🌍  I'm based in Bucharest
 * 🖥️  See my portfolio at [alexmihalascu.tech](http://alexmihalascu.tech)
