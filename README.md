@@ -5,7 +5,7 @@
 
 * 🌍  I'm based in Bucharest
 * 🖥️  See my portfolio at [alexandrumihalascu.tech](http://alexandrumihalascu.tech)
-* ✉️  You can contact me at [alex@mhlsq.me](mailto:alex@mhlsq.me)
+* ✉️  You can contact me at [contact@alexandrumihalascu.tech](mailto:contact@alexandrumihalascu.tech)
 
 ### Skills
 
