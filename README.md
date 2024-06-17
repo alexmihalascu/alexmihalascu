@@ -4,7 +4,10 @@
 
 ###
 
-<h2 align="left">👋 Hi, my name is Alex Mihalașcu<br>🌍 I'm based in Bucharest<br>🖥️ See my portfolio at [alexandrumihalascu.tech](http://alexandrumihalascu.tech)<br>✉️ You can contact me at [contact@alexandrumihalascu.tech](mailto:contact@alexandrumihalascu.tech)</h2>
+<h2 align="left">👋 Hi, my name is Alex Mihalașcu</h2>
+<h2>🌍 I'm based in Bucharest
+<h2>🖥️ See my portfolio at <a href="https://alexandrumihalascu.tech" target="_blank"> alexandrumihalascu.tech </a></h2>
+<h2>✉️ You can contact me at <a href="mailto:contact@alexandrumihalascu.tech"> contact@alexandrumihalascu.tech</a></h2> 
 ###
 
 <br clear="both">
