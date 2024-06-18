@@ -1,5 +1,4 @@
-<br clear="both">
-###
+
 
 <h2 align="left">👋 Hi, my name is Alex Mihalașcu</h2>
 <h2>🌍 I'm based in Bucharest
