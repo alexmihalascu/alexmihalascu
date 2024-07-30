@@ -87,7 +87,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alexmihalascu/alexmihalascu/6fc55f8ddb4edf3f5a8ae9af7c2dd9ac2cab8170/github-contribution-grid-snake-dark.svg">
+<img src="https://github.com/alexmihalascu/alexmihalascu/blob/fa39ce5d72db0e84a4c8d8cba23322caa94c7cb6/github-contribution-grid-snake-dark.svg">
 
 
 ###
