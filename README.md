@@ -11,7 +11,7 @@
   <a href="mailto:alexmihalascu@gmaill.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://alexandrumihalascu.tech" target="_blank">
+  <a href="https://mhlsq.ro" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
   </a>
 </div>
