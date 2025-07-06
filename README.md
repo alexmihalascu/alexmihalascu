@@ -1,13 +1,13 @@
-<!-- Profile Header -->
+<!-- HEADER WITH AVATAR -->
 <p align="center">
-  <img src="https://i.imgur.com/DRKClfp.jpeg"
+  <img src="[https://i.ibb.co/vv3KjDb/file-M0-Ohyl-ATLvdlb1-NMM9-OPHf-B7.jpg](https://i.imgur.com/DRKClfp.jpeg)"
     alt="Alexandru Mihalașcu"
-    width="220"
-    style="border-radius: 50%; box-shadow: 0 0 40px #00bfff, 0 0 10px #fff;" />
+    width="180"
+    style="border-radius: 50%; box-shadow: 0 0 30px #00bfff, 0 0 8px #fff;" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Alexandru+Mihalașcu+%F0%9F%91%8B;Web+Developer+%7C+Tech+Enthusiast+%7C+Gamer" alt="Typing SVG" />
+  Hi there! I'm <span style="color:#00bfff;">Alexandru Mihalașcu</span> 👋
 </h1>
 
 <p align="center">
@@ -26,36 +26,25 @@
 
 ## 👨‍💻 About Me
 
-- 🏙️ From **Bucharest, Romania**
-- 🚀 Building web apps focused on **UX, performance & responsive design**
-- ⚡ Passionate about **React, Vue, Node.js** and mobile-first experiences
-- 🎮 Gamer & tech explorer | Automating life, one script at a time
+- 🏙️ Based in **Bucharest, Romania**
+- 🚀 Building web apps focused on **functionality, UX, and performance**
+- 📱 Passionate about mobile optimization and responsive design
+- 💡 Love automating repetitive tasks and finding smart solutions
+- 🎮 Gamer at heart—tactical shooters & open-world adventures
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Favorite Tech & Tools
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-</p>
+- **Frontend:** React, Vue, Material UI, Bootstrap
+- **Backend:** Node.js, PHP
+- **Databases:** MySQL, PostgreSQL, Firebase
+- **Cloud & DevOps:** Google Cloud, Git
+- **Other:** JavaScript, C#, C++
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexmihalascu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
@@ -69,9 +58,9 @@
 
 ## 🚀 Fun Facts
 
-- 🕹️ I love tactical shooters & open-world games
-- 🧩 Always looking for ways to automate boring stuff
-- ☕ Coffee + code = ❤️
+- ☕ Coffee and code are my perfect combo
+- 🧩 Always exploring new tech and building personal projects
+- 🌍 I believe technology should make life simpler and more fun
 
 ---
 
