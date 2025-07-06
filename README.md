@@ -1,6 +1,6 @@
 <!-- HEADER WITH AVATAR -->
 <p align="center">
-  <img src="[https://i.ibb.co/vv3KjDb/file-M0-Ohyl-ATLvdlb1-NMM9-OPHf-B7.jpg](https://i.imgur.com/DRKClfp.jpeg)"
+  <img src="https://i.imgur.com/DRKClfp.jpeg"
     alt="Alexandru Mihalașcu"
     width="180"
     style="border-radius: 50%; box-shadow: 0 0 30px #00bfff, 0 0 8px #fff;" />
