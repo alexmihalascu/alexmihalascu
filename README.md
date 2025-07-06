@@ -1,10 +1,3 @@
-<!-- HEADER WITH AVATAR -->
-<p align="center">
-  <img src="https://i.imgur.com/DRKClfp.jpeg"
-    alt="Alexandru Mihalașcu"
-    width="180"
-    style="border-radius: 50%; box-shadow: 0 0 30px #00bfff, 0 0 8px #fff;" />
-</p>
 
 <h1 align="center">
   Hi there! I'm <span style="color:#00bfff;">Alexandru Mihalașcu</span> 👋
