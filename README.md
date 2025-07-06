@@ -29,11 +29,11 @@
 
 ## 🛠️ Favorite Tech & Tools
 
-- **Frontend:** React, Vue, Material UI, Bootstrap
+- **Frontend:** React, Next.js, Vue, Material UI, Bootstrap, 
 - **Backend:** Node.js, PHP
-- **Databases:** MySQL, PostgreSQL, Firebase
+- **Databases:** MongoDB, MySQL, PostgreSQL, Firebase
 - **Cloud & DevOps:** Google Cloud, Git
-- **Other:** JavaScript, C#, C++
+- **Other:** JavaScript, C#, C++, PS
 
 ---
 
