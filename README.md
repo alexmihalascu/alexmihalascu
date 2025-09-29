@@ -29,7 +29,7 @@
 ## ⚡ Tech Stack  
 
 ### 🖥️ Frontend
-- React / Next.js  
+- React / Next.js / Vue
 - shadcn/ui / TailwindCSS  
 - Material UI (MUI)  
 
