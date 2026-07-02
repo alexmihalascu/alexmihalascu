@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Alexandru%20Mihala%C8%99cu&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%E2%80%A2%20Bucharest%2C%20Romania&descSize=16&descAlignY=52" />
+# Hi, I'm Alexandru Mihalașcu 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Building+apps+that+empower+people+%E2%9A%A1;UI%2FUX+Perfectionist+%F0%9F%8E%A8;Automation+Addict+%F0%9F%A4%96;Petrolhead+writing+clean+code+%F0%9F%8F%8E%EF%B8%8F" />
 
@@ -33,9 +33,9 @@ const alex = {
 ```
 
 - 🚀 I ship **modern, responsive & scalable web apps**
-- 🎨 Obsessed with **UI/UX** — pixels matter, details win
+- 🎨 Obsessed with **UI/UX** - pixels matter, details win
 - ⚡ If I do something twice, I **automate it** the third time
-- 🏎️ Same passion for **precision & performance** — on the road and in the codebase
+- 🏎️ Same passion for **precision & performance** - on the road and in the codebase
 
 ## 🛠️ Tech Stack
 
@@ -59,12 +59,7 @@ const alex = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alexmihalascu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alexmihalascu&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmihalascu&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="150" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=alexmihalascu&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=alexmihalascu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="180" />
 
 </div>
 
@@ -96,6 +91,6 @@ const alex = {
 
 **⚡ Let's build something great together → [alex@mhlsq.ro](mailto:alex@mhlsq.ro)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer" />
 
 </div>
