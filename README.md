@@ -59,7 +59,7 @@ const alex = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alexmihalascu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alexmihalascu&theme=tokyonight&hide_border=true&border_radius=12" height="180" />
 
 </div>
 
