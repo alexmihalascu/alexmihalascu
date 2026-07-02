@@ -1,79 +1,101 @@
-<h1 align="center">
-  Hi, I'm <span style="color:#00bfff;">Alexandru Mihalașcu</span> 👋
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/alexandrumihalascu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:alexmihalascu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mhlsq.ro" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Alexandru%20Mihala%C8%99cu&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%E2%80%A2%20Bucharest%2C%20Romania&descSize=16&descAlignY=52" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Building+apps+that+empower+people+%E2%9A%A1;UI%2FUX+Perfectionist+%F0%9F%8E%A8;Automation+Addict+%F0%9F%A4%96;Petrolhead+writing+clean+code+%F0%9F%8F%8E%EF%B8%8F" />
 
-## 👨‍💻 About Me  
+<br/>
 
-- 🏙️ Based in **Bucharest, Romania**  
-- 🚀 Focused on building **modern, responsive & scalable web apps**  
-- 🎨 Passionate about **UI/UX design, responsive layouts, and seamless user journeys**  
-- ⚡ I love **optimizing workflows and automating repetitive processes** → making people’s work easier  
-- 🏎️ **Car enthusiast** who enjoys applying the same passion for precision and performance in code  
+<a href="https://linkedin.com/in/alexandrumihalascu">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:alex@mhlsq.ro">
+  <img src="https://img.shields.io/badge/alex@mhlsq.ro-00BFFF?style=for-the-badge&logo=minutemailer&logoColor=white" />
+</a>
+<a href="https://mhlsq.ro">
+  <img src="https://img.shields.io/badge/mhlsq.ro-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
----
+<img src="https://komarev.com/ghpvc/?username=alexmihalascu&color=00bfff&style=flat-square&label=Profile+Views" />
 
-## ⚡ Tech Stack  
+</div>
 
-### 🖥️ Frontend
-- React / Next.js / Vue
-- shadcn/ui / TailwindCSS  
-- Material UI (MUI)  
+## 🏁 whoami
 
-### ⚙️ Backend
-- Node.js (Express, API dev)  
-- PHP (Laravel, legacy support)  
+```typescript
+const alex = {
+  location: "Bucharest, Romania 🇷🇴",
+  role: "Full-Stack Developer",
+  currentFocus: ["Next.js", "Scalable APIs", "Automation"],
+  fuel: ["Coffee ☕", "Horsepower 🏎️", "Clean Code ✨"],
+  motto: "Build apps that empower people, not complicate their work",
+};
+```
 
-### 💾 Databases
-- MongoDB / MySQL / PostgreSQL  
-- Firebase  
+- 🚀 I ship **modern, responsive & scalable web apps**
+- 🎨 Obsessed with **UI/UX** — pixels matter, details win
+- ⚡ If I do something twice, I **automate it** the third time
+- 🏎️ Same passion for **precision & performance** — on the road and in the codebase
 
-### ☁️ Cloud & DevOps
-- Google Cloud  
-- Git / GitHub Actions  
+## 🛠️ Tech Stack
 
-### 🔧 Other
-- JavaScript (ES6+)  
-- C# / C++ (academic & projects)  
-- PowerShell / Shell scripting  
+<div align="center">
 
----
+**Frontend**
 
-## 📊 GitHub Highlights  
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,materialui&theme=dark" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexmihalascu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alexmihalascu&theme=tokyonight&hide_border=true&border_radius=12" height="180" />
-</p>
+**Backend & Databases**
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexmihalascu&theme=tokyonight" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,mysql,postgres,firebase&theme=dark" />
 
----
+**Cloud, DevOps & Tools**
 
-## 🌍 Mindset  
+<img src="https://skillicons.dev/icons?i=gcp,git,github,githubactions,js,ts,cs,cpp,powershell,bash&theme=dark" />
 
-- 🧩 Always striving for **efficiency and simplicity** in every project  
-- 🚀 Believe in **technology as a tool to empower people, not complicate their work**  
-- 🏎️ Precision & performance → whether it’s **cars or code**  
-- ⚡ Motto: *"Build apps that empower people, not complicate their work"*  
+</div>
 
----
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alexmihalascu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alexmihalascu&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmihalascu&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="150" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=alexmihalascu&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+
+</div>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/alexmihalascu/alexmihalascu/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+## 💭 Dev Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+## 🌍 Philosophy
+
+> 🧩 **Simplicity scales.** Complexity breaks.
+>
+> 🚀 Technology should **empower people**, not get in their way.
+>
+> 🏎️ **Redline the performance, never the stress.**
+
+<div align="center">
+
+**⚡ Let's build something great together → [alex@mhlsq.ro](mailto:alex@mhlsq.ro)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+</div>
